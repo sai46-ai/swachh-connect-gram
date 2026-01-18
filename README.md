@@ -135,6 +135,6 @@ Role-based access control
 Protected API routes
 Admin access controlled through environment variables
 
-Deployment
+Deployment 
 Backend and frontend can be deployed on any standard hosting platform that supports Node.js and React.
 Environment variables must be configured manually during deployment.
